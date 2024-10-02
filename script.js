@@ -8,7 +8,7 @@ console.log(getCelsius(75))
 function minMax(nums) {
     return {min: Math.min(...nums), max: Math.max(...nums)}
 }
-console.log(minMax([1, 2, 3, 4, 5]))
+console.log(minMax([1, 2, 3, 4, 5]));
 
 // 3
 (function(length, width) {
